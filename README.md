@@ -26,7 +26,7 @@
 
     ```json
     {
-        "topic": "topic or all (all receive message)",
+        "topic": "topic for send message or all (all receive message)",
         "payload": "JSON like (string, array, json...)"
     }
     ```
