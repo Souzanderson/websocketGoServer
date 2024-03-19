@@ -19,7 +19,7 @@
 - Model url:
 
     ```bash
-    ws://<host>:<port>?id=<iduser>&topic=<topiclogin>
+    ws://<host>:<port>?id=<iduser>&topic=<subscribe>
     ```
 
 - Model payload (body):
