@@ -16,4 +16,17 @@
         * It`s run on port 8085;
 
 
+- Model url:
 
+    ```bash
+    ws://<host>:<port>?id=<iduser>&topic=<topiclogin>
+    ```
+
+- Model payload (body):
+
+    ```json
+    {
+        "topic": "topic or all (all receive message)",
+        "payload": "JSON like (string, array, json...)"
+    }
+    ```
